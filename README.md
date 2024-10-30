@@ -1,2 +1,2 @@
-# Repository for Ural Federal University Software Engeneering course
+# Hello World!
 
